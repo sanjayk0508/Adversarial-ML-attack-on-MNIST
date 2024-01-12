@@ -1,6 +1,6 @@
 # **Adversarial ML attack on MNIST Dataset**
 
-This notebook explores various adversarial attacks on machine learning models, utilizing the Adversarial Robustness Toolbox (ART). **I would highly recommend going through the Google Colab notebook as everything has been written clearly and demonstrated properly 📝.**
+This notebook explores various adversarial attacks on machine learning models, utilizing the Adversarial Robustness Toolbox (ART). **I would highly recommend going through the Google Colab notebook as everything has been written clearly and demonstrated properly 📝.** And its **Defense techniques** could be found [here](https://github.com/sanjayk0508/Defense-for-Adversarial-attack-MNIST)
 
 ## **Introduction**
 Machine learning (ML) models are vulnerable to adversarial attacks, where adversaries aim to manipulate model behavior to produce incorrect outputs. ART is a Python framework offering tools to evaluate and defend ML models against such attacks. This project demonstrates different attack types and their implementation in ART, as well as examples of poisoning data to corrupt model training. We have used MNIST dataset to work on this project.
